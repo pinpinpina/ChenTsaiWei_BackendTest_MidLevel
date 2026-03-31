@@ -1,0 +1,6 @@
+@ChenTsaiWei_BackendTest_MidLevel_HostAddress = http://localhost:5136
+
+GET {{ChenTsaiWei_BackendTest_MidLevel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

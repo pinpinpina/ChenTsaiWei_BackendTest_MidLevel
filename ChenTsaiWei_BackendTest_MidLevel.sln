@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChenTsaiWei_BackendTest_MidLevel", "ChenTsaiWei_BackendTest_MidLevel\ChenTsaiWei_BackendTest_MidLevel.csproj", "{E33134BC-9CD4-4E5C-A356-93AE8DF18163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33134BC-9CD4-4E5C-A356-93AE8DF18163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33134BC-9CD4-4E5C-A356-93AE8DF18163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33134BC-9CD4-4E5C-A356-93AE8DF18163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33134BC-9CD4-4E5C-A356-93AE8DF18163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9751B0E4-72E1-4399-9319-EAF374E207A2}
+	EndGlobalSection
+EndGlobal
